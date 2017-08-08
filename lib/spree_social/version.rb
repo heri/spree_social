@@ -11,7 +11,7 @@ module SpreeSocial
     MAJOR = 3
     MINOR = 2
     TINY  = 0
-    PRE   = 'beta'.freeze
+    PRE   = '1'.freeze
 
     STRING = [MAJOR, MINOR, TINY, PRE].compact.join('.')
   end

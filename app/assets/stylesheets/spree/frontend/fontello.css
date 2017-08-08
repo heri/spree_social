@@ -57,7 +57,7 @@
 .icon-spree-twitter:before { content: '\e802'; } /* '' */
 .icon-spree-twitter-circled:before { content: '\e803'; color: #55acee } /* '' */
 .icon-spree-facebook:before { content: '\e804'; color: #3b5998 } /* '' */
-.icon-spree-facebook-circled:before { content: '\e805'; } /* '' */
+.icon-spree-facebook-circled:before { content: '\e805'; color: #3b5998 } /* '' */
 .icon-spree-google-oauth2:before { content: '\e806'; } /* '' */
 .icon-spree-google-oauth2-circled:before { content: '\e807'; } /* '' */
 .icon-spree-amazon:before { content: '\e808'; } /* '' */
